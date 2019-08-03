@@ -150,3 +150,6 @@ netease:
     team-add: https://api.netease.im/nimserver/team/add.action
     update-team-nick: https://api.netease.im/nimserver/team/updateTeamNick.action
     send-team-msg: https://api.netease.im/nimserver/msg/sendMsg.action
+funny:
+  back:
+    add-admin: http://120.79.205.177:8090/login
