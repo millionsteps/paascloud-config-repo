@@ -150,3 +150,5 @@ netease:
     team-add: https://api.netease.im/nimserver/team/add.action
     update-team-nick: https://api.netease.im/nimserver/team/updateTeamNick.action
     send-team-msg: https://api.netease.im/nimserver/msg/sendMsg.action
+    team-kick: https://api.netease.im/nimserver/team/kick.action
+    team-change-owner: https://api.netease.im/nimserver/team/changeOwner.action
