@@ -152,3 +152,6 @@ netease:
     send-team-msg: https://api.netease.im/nimserver/msg/sendMsg.action
     team-kick: https://api.netease.im/nimserver/team/kick.action
     team-change-owner: https://api.netease.im/nimserver/team/changeOwner.action
+funny:
+  back:
+    add-admin: https://funnyback.quduoo.com/login
