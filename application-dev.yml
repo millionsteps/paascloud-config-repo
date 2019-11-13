@@ -153,6 +153,7 @@ netease:
     team-remove: https://api.netease.im/nimserver/team/remove.action
     update-team-nick: https://api.netease.im/nimserver/team/updateTeamNick.action
     send-team-msg: https://api.netease.im/nimserver/msg/sendMsg.action
+    send-attach-msg: https://api.netease.im/nimserver/msg/sendAttachMsg.action
     team-kick: https://api.netease.im/nimserver/team/kick.action
     team-change-owner: https://api.netease.im/nimserver/team/changeOwner.action
 funny:
